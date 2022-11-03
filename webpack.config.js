@@ -17,7 +17,7 @@ module.exports = {
     liveReload: true,
   },
   resolve: {
-    extensions: [".js", ".jsx", ".json", ".ts"],
+    extensions: [".js", ".jsx", ".json"],
   },
   module: {
     rules: [
