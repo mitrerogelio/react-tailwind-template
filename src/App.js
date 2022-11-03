@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import TestComponent from "./components/TestComponent";
 
 const App = () => {
   return (
@@ -9,6 +10,7 @@ const App = () => {
       <p className="text-gray-500 text-lg">
         This is a React + Tailwind template from scratch!
       </p>
+      <TestComponent />
     </div>
   );
 };
