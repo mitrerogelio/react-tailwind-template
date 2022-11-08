@@ -1,5 +1,5 @@
 {
-  "name": "react-tailwind-template",
+  "name": "react-tailwindcss-template",
   "version": "1.0.0",
   "description": "Simple and plain react application template with TailwindCSS.",
   "main": "./src/index.js",
