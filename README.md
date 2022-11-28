@@ -15,6 +15,13 @@ This setup has only been tested on macOS.
 ## Installation
 Clone the repository on your local machine. And follow the following steps inside the project folder.
 
+- Delete the .git folder to avoid conflicts in your project.
+
+Bash:
+```bash
+rm -rf .git
+```
+
 - Use a package manager (npm) to install all dependencies.
 
 ```bash
